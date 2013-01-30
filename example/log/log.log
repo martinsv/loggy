@@ -1,0 +1,14 @@
+[Wed Jan 30 03:21:46 2013] [debug] Debug 1
+[Wed Jan 30 03:21:46 2013] [error] Error 1
+[Wed Jan 30 03:21:46 2013] [notice] Notice 1
+[Wed Jan 30 03:21:46 2013] [debug] array (
+  'Key 1' => 'Value 1',
+  'Key 2' => 2,
+)
+[Wed Jan 30 03:21:46 2013] [debug] Debug 2
+[Wed Jan 30 03:21:46 2013] [error] Error 2
+[Wed Jan 30 03:21:46 2013] [notice] Notice 2
+[Wed Jan 30 03:21:46 2013] [debug] array (
+  'Key 1' => 'Value 1',
+  'Key 2' => 2,
+)
