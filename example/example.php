@@ -1,16 +1,16 @@
 <?php
-require_once '../src/SLog.php';
+require_once '../lib/Loggy.php';
 
 $arr = array('Key 1' => 'Value 1', 'Key 2' => 2);
 
-Slog::debug('Debug 1');
-SLog::error('Error 1');
-Slog::notice('Notice 1');
-Slog::debug($arr);
+Loggy\Loggy::debug('Debug 1');
+Loggy\Loggy::error('Error 1');
+Loggy\Loggy::notice('Notice 1');
+Loggy\Loggy::debug($arr);
 
 
-$slog = Slog::getLogger();
-$slog->debug('Debug 2');
-$slog->error('Error 2');
-$slog->notice('Notice 2');
-$slog->debug($arr);
+$loggy = Loggy\Loggy::getLogger();
+$loggy->debug('Debug 2');
+$loggy->error('Error 2');
+$loggy->notice('Notice 2');
+$loggy->debug($arr);

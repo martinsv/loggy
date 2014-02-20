@@ -1,0 +1,42 @@
+[Thu Feb 20 18:10:51 2014] [debug] Debug 1
+[Thu Feb 20 18:10:51 2014] [error] Error 1
+[Thu Feb 20 18:10:51 2014] [notice] Notice 1
+[Thu Feb 20 18:10:51 2014] [debug] array (
+  'Key 1' => 'Value 1',
+  'Key 2' => 2,
+)
+[Thu Feb 20 18:10:51 2014] [debug] Debug 2
+[Thu Feb 20 18:10:51 2014] [error] Error 2
+[Thu Feb 20 18:10:51 2014] [notice] Notice 2
+[Thu Feb 20 18:10:51 2014] [debug] array (
+  'Key 1' => 'Value 1',
+  'Key 2' => 2,
+)
+[Thu Feb 20 18:11:11 2014] [debug] Debug 1
+[Thu Feb 20 18:11:11 2014] [error] Error 1
+[Thu Feb 20 18:11:11 2014] [notice] Notice 1
+[Thu Feb 20 18:11:11 2014] [debug] array (
+  'Key 1' => 'Value 1',
+  'Key 2' => 2,
+)
+[Thu Feb 20 18:11:11 2014] [debug] Debug 2
+[Thu Feb 20 18:11:11 2014] [error] Error 2
+[Thu Feb 20 18:11:11 2014] [notice] Notice 2
+[Thu Feb 20 18:11:11 2014] [debug] array (
+  'Key 1' => 'Value 1',
+  'Key 2' => 2,
+)
+[Thu Feb 20 18:11:37 2014] [debug] Debug 1
+[Thu Feb 20 18:11:37 2014] [error] Error 1
+[Thu Feb 20 18:11:37 2014] [notice] Notice 1
+[Thu Feb 20 18:11:37 2014] [debug] array (
+  'Key 1' => 'Value 1',
+  'Key 2' => 2,
+)
+[Thu Feb 20 18:11:37 2014] [debug] Debug 2
+[Thu Feb 20 18:11:37 2014] [error] Error 2
+[Thu Feb 20 18:11:37 2014] [notice] Notice 2
+[Thu Feb 20 18:11:37 2014] [debug] array (
+  'Key 1' => 'Value 1',
+  'Key 2' => 2,
+)

@@ -4,7 +4,7 @@ This is a simple logger in php to log applications.
 
 ## Requirements
 
-* PHP 5.x
+* PHP 5.3.0
 
 ## Usage
 
