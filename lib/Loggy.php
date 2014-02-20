@@ -5,7 +5,7 @@
  * @author Igor Carvalho
  *
  */
-class Slog {
+class Loggy {
 
 	private $file = null;
 
