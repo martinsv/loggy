@@ -50,7 +50,7 @@ class Loggy {
 			$class = __CLASS__;
 			self::$instance = new $class();
 		}
-		return self::$instance->createLog();
+		return self::$instance->createLog($fileName);
 	}
 
 	/**
