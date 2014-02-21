@@ -11,7 +11,11 @@ class Loggy {
 
 	const ERROR = 'error';
 
-	const INFO
+	const INFO = 'info';
+
+	const NOTICE = 'notice';
+
+	const LOG = 'log';
 
 	private $file = null;
 
